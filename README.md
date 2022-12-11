@@ -24,6 +24,10 @@ The purpose of our project is to gather and analyze details information on apps 
     2-Reviews
     3-Installs
  ## STEP OF ANALYSIS
+ 
+### Dataset Preparation-
+    1-Data imported from Play Store Data.csv and User Review.csv
+    2-Python Libraries imported like Pandas,Numpy,Matplotlib & Seaborn.
 
 ### Data Cleaning-
     1-Here we size,price,rating,reviews,Installs are in Object Datatype,so first we converted them into Numerical format of Int(Price,Reviews,Installs) or
@@ -42,8 +46,21 @@ The purpose of our project is to gather and analyze details information on apps 
       7-What is the mean size of each category  ?
       8-What is the distribution of Apps suitable to particular age?
       9-Which Android Version is compatible to the most number of Apps?
-      10-What is the correlation among different attributes of Apps?
+      10-Which App is most expensive APPs?/
+      11-What is the correlation among different attributes of Apps?
       
+  ### Ploting Graph
+      1-Pie chart for distribution of Category.
+      2-Bar Chart for number of Installs for each category.
+      3-Bar Chart for average rating for each category.
+      4-Density plot for ratings.
+      5-Bar Chart for category wise Reviews.
+      6-Pie Chart for Types of APPS whether they are paid or free.
+      7-Scatter plot for mean size in each category.
+      8-Line chart for Age Vs Content Rating.
+      9-Pie Chart for top10 Android Version in compatibility.
+      10-Pie chart to find the most expensive Apps.
+      11-Heatmap to find the Correlation amoung different Apps
       
 ## CONCLUSION 
     After several operation we come to know about the various aspect of the Dataset of Play Store. like Which Category of Apps are most available,their Installs            Quantity,Reviews numbers as well as Size and Ratings they got and found the Games related Apps are the dominant one.
