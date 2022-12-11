@@ -20,10 +20,10 @@ The purpose of our project is to gather and analyze details information on apps 
     7-Android Version .
 
 ### Result
-  It is the result and success of the Apps,due to its various properties.
-  1-Rating
-  2-Reviews
-  3-Installs
+   It is the result and success of the Apps,due to its various properties
+   1-Rating
+   2-Reviews
+   3-Installs
    
 ## STEP OF ANALYSIS
 
