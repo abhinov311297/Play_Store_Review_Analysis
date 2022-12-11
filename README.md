@@ -8,3 +8,23 @@ Android is dominant mobile operating system today more than 85% of all mobile de
 There are more than 3.04 million apps found on Google Play Store.
 The purpose of our project is to gather and analyze details information on apps in the Google Play Store in order to provide insight on app features and the current state of the Android app market.
 
+## DATA INFO-
+### Feature 
+    It gives the information about the different properties of the APPS which is independent of each other like 
+    1-Name
+    2-Category
+    3-Size
+    4-Type
+    5-Price
+    6-Content Rating
+    7-Android Version .
+
+### Result
+  It is the result and success of the Apps,due to its various properties.
+  1-Rating
+  2-Reviews
+  3-Installs
+   
+## STEP OF ANALYSIS
+
+### Data Cleaning-
