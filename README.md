@@ -18,7 +18,7 @@ The purpose of our project is to gather and analyze details information on apps 
     5-Price
     6-Content Rating
     7-Android Version .
-### Result
+### Performance
     It is the result and success of the Apps,due to its various properties
     1-Rating
     2-Reviews
